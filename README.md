@@ -128,7 +128,7 @@ npm or yarn
 
 1. Clone the Repository
 bash
-git clone https://github.com/yourusername/rockybot.git
+git clone (https://github.com/sank-55/Domain_Specific_RAG_Research_Assistant)
 cd rockybot
 2. Install Dependencies
 bash
