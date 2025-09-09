@@ -1,5 +1,9 @@
 🌐 ReadBuddy - Web Page Analysis & Research AI
 
+<img width="1327" height="611" alt="Screenshot 2025-09-09 232022" src="https://github.com/user-attachments/assets/d7ca4bb4-dfa6-4349-a887-3839fa3c11c6" />
+
+<img width="1325" height="618" alt="Screenshot 2025-09-09 231930" src="https://github.com/user-attachments/assets/4c7900e0-d9dd-46ae-a6a6-bf3f717a0b55" />
+
 https://img.shields.io/badge/Demo-Live-green
 https://img.shields.io/badge/Node.js-18%252B-brightgreen
 https://img.shields.io/badge/React-18-blue
@@ -381,7 +385,7 @@ Export Functionality (PDF, CSV)
 Collaborative Features for teams
 
 
-#### My API limit is exhausted put Your API in .env file 
+#### My API limit is exhausted put Your API in .env file You can check Raw>app_hf.py or Raw>rag_research_tool.ipynb file for clarification
 
 ⭐ Star this repo if you find it useful!
 
