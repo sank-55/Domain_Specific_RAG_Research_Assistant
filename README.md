@@ -14,6 +14,11 @@ A futuristic AI-powered research assistant that processes web pages, extracts co
 
 https://via.placeholder.com/800x400/2D3748/FFFFFF?text=RockyBot+Futuristic+Interface
 
+
+Basic Schematic and Brief Discussion on the RAG concept:
+<img width="937" height="525" alt="Screenshot 2025-09-10 095758" src="https://github.com/user-attachments/assets/2ffb577a-5454-446f-8b8f-58ed6088a314" />
+
+
 What are the Problems we faced in Gathering Information ........
 
 
